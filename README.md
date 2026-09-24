@@ -23,6 +23,6 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Guilherme-BFreitas/portfolio](https://github.com/Guilherme-BFreitas/portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/Guilherme-BFreitas/portfolio](https://github.com/Guilherme-BFreitas)
 
 - 📫 How to reach me **guilhermebravo089@gmail.com**
