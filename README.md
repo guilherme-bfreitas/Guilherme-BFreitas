@@ -16,7 +16,7 @@
 </p>
 <p align="left">
   <a href="https://www.linkedin.com/in/SEU-USUARIO/" target="blank">
-    <img align="left" src="https://img.icons8.com/color/32/linkedin.png" alt="LinkedIn" height="30" width="30">
+    <img align="center" src="https://img.icons8.com/color/32/linkedin.png" alt="LinkedIn" height="30" width="30">
   </a>
 </p>
 
