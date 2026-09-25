@@ -11,12 +11,12 @@
 </p>
 <p align="left">
 <a href="mailto:guilhermebravo089@gmail.com" target="blank">
-<img align="center" src="https://img.icons8.com/color/32/gmail-new.png" alt="Gmail">
+<img align="left" src="https://img.icons8.com/color/32/gmail-new.png" alt="Gmail">
 </a>
 </p>
 <p align="left">
   <a href="https://www.linkedin.com/in/SEU-USUARIO/" target="blank">
-    <img align="center" src="https://img.icons8.com/color/32/linkedin.png" alt="LinkedIn" height="30" width="30">
+    <img align="left" src="https://img.icons8.com/color/32/linkedin.png" alt="LinkedIn" height="30" width="30">
   </a>
 </p>
 
