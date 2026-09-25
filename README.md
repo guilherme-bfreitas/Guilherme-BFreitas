@@ -18,6 +18,15 @@
 guilhermebravo089@gmail.com
 </a>
 </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-USUARIO/" target="_blank">
+    <img src="https://img.icons8.com/color/32/linkedin.png" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/guilherme-bravo-95b8803a8/" target="_blank">
+    LinkedIn
+  </a>
+</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=guilherme-bfreitas&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
