@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/_.glhrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.glhrm" height="30" width="40" /></a>
+<a href="https://instagram.com/_.glhrm" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.glhrm" height="30" width="40" /></a>
 </p>
 <p align="left">
 <a href="mailto:guilhermebravo089@gmail.com" target="blank">
