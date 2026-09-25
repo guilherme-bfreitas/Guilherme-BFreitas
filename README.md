@@ -20,16 +20,6 @@
   </a>
 </p>
 
-<h3 align="left">📊 GitHub Stats</h3>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-BFreitas&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-BFreitas&layout=compact&theme=tokyonight" alt="Top Languages">
-</p>
-
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
