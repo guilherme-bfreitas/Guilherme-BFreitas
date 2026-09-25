@@ -13,15 +13,10 @@
 <a href="mailto:guilhermebravo089@gmail.com" target="blank">
 <img src="https://img.icons8.com/color/32/gmail-new.png" alt="Gmail">
 </a>
-&nbsp;
 </p>
 <p align="left">
   <a href="https://www.linkedin.com/in/SEU-USUARIO/" target="blank">
-    <img src="https://img.icons8.com/color/32/linkedin.png" alt="LinkedIn" height="30" width="40">
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/guilherme-bravo-95b8803a8/" target="blank">
-    LinkedIn
+    <img src="https://img.icons8.com/color/32/linkedin.png" alt="LinkedIn" height="30" width="30">
   </a>
 </p>
 
