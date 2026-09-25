@@ -10,20 +10,17 @@
 <a href="https://instagram.com/_.glhrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.glhrm" height="30" width="40" /></a>
 </p>
 <p align="left">
-<a href="mailto:guilhermebravo089@gmail.com">
+<a href="mailto:guilhermebravo089@gmail.com" target="blank">
 <img src="https://img.icons8.com/color/32/gmail-new.png" alt="Gmail">
 </a>
 &nbsp;
-<a href="mailto:guilhermebravo089@gmail.com">
-guilhermebravo089@gmail.com
-</a>
 </p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO/" target="_blank">
-    <img src="https://img.icons8.com/color/32/linkedin.png" alt="LinkedIn">
+<p align="left">
+  <a href="https://www.linkedin.com/in/SEU-USUARIO/" target="blank">
+    <img src="https://img.icons8.com/color/32/linkedin.png" alt="LinkedIn" height="30" width="40">
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/guilherme-bravo-95b8803a8/" target="_blank">
+  <a href="https://www.linkedin.com/in/guilherme-bravo-95b8803a8/" target="blank">
     LinkedIn
   </a>
 </p>
